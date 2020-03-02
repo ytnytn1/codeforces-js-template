@@ -8,5 +8,8 @@
   "devDependencies": {
     "chai": "4.2.0",
     "mocha": "7.1.0"
+  },
+  "scripts": {
+    "test": "node run-tests.js"
   }
 }
