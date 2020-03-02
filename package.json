@@ -1,0 +1,12 @@
+{
+  "name": "codeforces-js-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ytnytn1/codeforces-js-template.git",
+  "author": "Ivan Grischenko <ytnytn1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "7.1.0"
+  }
+}
