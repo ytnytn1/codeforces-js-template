@@ -1,0 +1,1 @@
+# codeforces-js-template
